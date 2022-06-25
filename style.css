@@ -1,0 +1,46 @@
+
+    th{
+      width: 12px;
+    }
+
+
+  /* card */
+  .grey-bg {  
+    background-color: #e5e5e5;
+  }
+  /* end */
+
+  /* register */
+  #success_message{ display: none;}
+  .error{color: #FF0000;}
+
+  .form-control {
+    background-color: #F5F7FA;
+    border: 1px solid #686363;
+    border-radius: 5px;
+    color: #E0E0E0;
+    font-size: 14px;
+    height: 40px;
+    padding: 0 15px;
+    width: 100%;
+  }
+  /* end */
+
+  .float{
+    position:fixed;
+    width:60px;
+    height:60px;
+    bottom:40px;
+    right:40px;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index:100;
+  }
+  
+  .my-float{
+    margin-top:16px;
+  }
